@@ -7,6 +7,6 @@ deploy:
   provider: releases
   api_key:
     secure: tPmQFZgRxUILZV3AAUe9PdHbyepcY83c/xZO0z6gohGBiXY3Mnw8DR3z8f9EtGevSag115X9GN4k7Hj0hH+7S+Uq+p7ZZtZcoezRQcLpByraQsoAthj5+tmateYAUiQY+F+4dRLMsvJWJtpAaAffKYog4HTykeXIse81L7WmCD+krt1ik0jTwPmRcFjKPt5nOA5dJ5MuZF9y2vSplWQqa0+cq23RS3jcZ8rmozaiGs04148laWq9veAgW3woUDaq4j7xzCkKcrTBzfxZEhslxx1rXPhfXHfVrO9maUoIYlCwAGIxP6dlkDksK8TaiMgIu7gnsphaAus0uBsJCLGty2FlObAjnPDxfVq2tkv8hRL8/PmIEv4QNbALLO3xd1MQIKPCEdg9S4cXZBtNh3tm5sKKjW17NqcmTy2oI+YZbnLW6AiNh2AJtdW0cPWs0cyG4y+xnULmIN1XZmuNlhx/ZZUvyHozd7VZWFXY2O93Wzsk+SSP9y7CQMNu+hSvs+H+/Gr0UZ6+E24KR9VqkUXutxZ5dQT8ej7Ztn6q9i4qriHJ5e3aUeQGyKKfiobXGyVQcAFiKFDIAZqH4aKMAP5ifdKksJi53UnGi0Z+ppt0BOb3p3mvli51RkK0VIpLDtPs8wQHCM3Zd43/cig9m3mzf8h8U0YVWmOcwcBAcmsV+7Y=
-  file: "target/springboot-0.0.1-SNAPSHOT.jar"
+  file: target/springboot-0.0.1-SNAPSHOT.jar
   on:
     repo: amegiab/springbootdemo
